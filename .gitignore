@@ -1,3 +1,0 @@
-# Ignore everything except PDF files
-Seedlings/*
-!Seedlings/*.pdf
