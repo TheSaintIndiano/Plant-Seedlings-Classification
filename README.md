@@ -2,6 +2,7 @@
 
 [Based on Kaggle Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification)
 
+---
 
 # Description
 
@@ -29,6 +30,7 @@ The Aarhus University Signal Processing group, in collaboration with University 
 
 We're hosting this dataset as a Kaggle competition in order to give it wider exposure, to give the community an opportunity to experiment with different image recognition techniques, as well to provide a place to cross-pollenate ideas.
 
+---
 
 # Citation
 
