@@ -1,11 +1,9 @@
 # Introduction
-
 [Based on Kaggle Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification)
 
 ---
 
 # Description
-
 Can you differentiate a `weed` from a crop `seedling`?
 
 Classify `an image` of `seedling` into one the following `12 different` seedling `classes`.
@@ -33,5 +31,4 @@ We're hosting this dataset as a Kaggle competition in order to give it wider exp
 ---
 
 # Citation
-
 [A Public Image Database for Benchmark of Plant Seedling Classification Algorithms](https://arxiv.org/abs/1711.05458v1)
